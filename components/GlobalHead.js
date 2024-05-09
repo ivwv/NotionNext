@@ -91,6 +91,7 @@ const GlobalHead = props => {
       <meta name='twitter:card' content='summary_large_image' />
       <meta name='twitter:description' content={description} />
       <meta name='twitter:title' content={title} />
+      <meta name='baidu-site-verification' content='codeva-3T6opvJl5s' />
 
       <link rel='icon' href={`${siteConfig('BLOG_FAVICON')}`} />
 
