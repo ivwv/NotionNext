@@ -1,6 +1,6 @@
-import { siteConfig } from '@/lib/config'
 import { ArrowRightCircle, GlobeAlt } from '@/components/HeroIcons'
 import LazyImage from '@/components/LazyImage'
+import { siteConfig } from '@/lib/config'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useState } from 'react'
